@@ -22,3 +22,5 @@ Downloadable Outputs: Summarized text can be downloaded in original or translate
 User-Friendly Interface: The web interface is designed for ease of use, making interaction with the application simple and intuitive.
 
 Privacy and Security: Ensures compliance with API usage guidelines and prioritizes user privacy and data security.
+
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/99357c3b-b598-4dfc-9f1d-9588fdef3c96">
