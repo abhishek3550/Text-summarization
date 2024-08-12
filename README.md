@@ -1,23 +1,15 @@
-# Text-summarization
+# Text Summarization and Emotion Analysis Web Application
 
-Developed a web application using Django for text summarization and emotion analysis.
 
-• Allows input as either text or PDF files for summarization and analysis.
+This web application is designed for text summarization and emotion analysis, built using Django. It allows users to input text or PDF files, and through advanced Natural Language Processing (NLP) techniques, it provides concise summaries. Additionally, the application performs emotion analysis on these summaries, identifying emotions such as joy, sadness, anger, and more.
 
-• Utilizes NLP techniques to provide concise summaries of the input content.
-
-• Performs emotion analysis on the generated summaries to identify emotions like joy, sadness, anger, etc.
-
-• Provides the option to choose the desired summary length or compression ratio.
-
-• Integrates translation APIs to support multi-language translation of the summarized text.
-
-• Implements text-to-speech (TTS) functionality to enable users to hear the summaries in their preferred language.
-
-• Allows users to download the summarized text in the original or translated language.
-
-• Provides output options in plain text, PDF, or Word documents.
-
-• Offers a user-friendly web interface for easy interaction with the application.
-
-• Ensures compliance with API usage guidelines and prioritizes user privacy and data security.
+# Features
+Multiple Input Formats: Users can input either text or PDF files for summarization and analysis.
+Text Summarization: Utilizes NLP techniques to generate concise summaries of the input content.
+Emotion Analysis: Identifies emotions like joy, sadness, anger, etc., in the generated summaries.
+Customizable Summary Length: Users can choose the desired summary length or compression ratio.
+Multi-Language Translation: Integrates translation APIs to support translation of the summarized text into multiple languages.
+Text-to-Speech (TTS): Users can hear the summaries in their preferred language with text-to-speech functionality.
+Downloadable Outputs: Summarized text can be downloaded in original or translated language, with options for plain text, PDF, or Word documents.
+User-Friendly Interface: The web interface is designed for ease of use, making interaction with the application simple and intuitive.
+Privacy and Security: Ensures compliance with API usage guidelines and prioritizes user privacy and data security.
